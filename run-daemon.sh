@@ -13,7 +13,7 @@ echo
 echo
 echo
 echo
-echo "run './bin/gradlew -g /tmp/.gradle help' to start the daemon"
+echo "run './omni-gradle/gradlew -g /tmp/.gradle help' to start the daemon"
 echo
 echo
 echo
